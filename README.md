@@ -4,6 +4,7 @@ These notebooks cover the following libraries in Python:
 1. NumPy
 2. Matplotlib
 3. Pandas
+
 They cover the following topics:
 1. Accessing Databases using Python
 2. Importing Datasets in Python
